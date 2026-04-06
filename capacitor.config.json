@@ -1,0 +1,6 @@
+{
+  "appId": "com.mygame.doudizhu",
+  "appName": "斗地主",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
